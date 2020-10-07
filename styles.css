@@ -231,6 +231,7 @@ h1 {
   justify-content: space-around;
   border: none;
   transition: var(--transition);
+  outline: none;
 }
 .switch-btn span {
   display: inline-block;
